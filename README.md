@@ -1,1 +1,3 @@
-Hello world in Markdown
+# Blog
+
+Coming soon!
