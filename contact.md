@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Contact"
-permalink: /contact
+layout: default
 ---
+
+# Contact
 
 If you have a question about anything else, feel free to reach out using the information below.
 
