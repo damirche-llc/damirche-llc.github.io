@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DAMIRCHE CA LLC</title>
-    <link>https://damirche.com/</link>
-    <description>Recent content on DAMIRCHE CA LLC</description>
+    <title>MyPhone on DAMIRCHE CA LLC</title>
+    <link>https://damirche.com/myphone/</link>
+    <description>Recent content in MyPhone on DAMIRCHE CA LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2024 11:08:57 -0700</lastBuildDate>
-    <atom:link href="https://damirche.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Products</title>
-      <link>https://damirche.com/products/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://damirche.com/products/</guid>
-      <description>MyPhone - use this application to wirelessly display your phone&amp;rsquo;s screen on your AR/VR headset.</description>
-    </item>
-    <item>
-      <title>Content coming soon!</title>
-      <link>https://damirche.com/posts/2024-04-06-coming_soon/</link>
-      <pubDate>Sat, 06 Apr 2024 11:08:57 -0700</pubDate>
-      <guid>https://damirche.com/posts/2024-04-06-coming_soon/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://damirche.com/myphone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://damirche.com/myphone/guest-privacy-policy/</link>
@@ -35,13 +20,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://damirche.com/myphone/host-privacy-policy/</guid>
       <description>Privacy Policy&#xA;This privacy policy applies to the MyPhone Host app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by DAMIRCHE CA LLC (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Free service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&#xA;Information Collection and Use&#xA;The Application collects information when you download and use it. This information may include information such as&#xA;Your device&amp;rsquo;s Internet Protocol address (e.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://damirche.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://damirche.com/contact/</guid>
-      <description>If you have any questions, feel free to reach out using the information below.&#xA;Email: rdamir@damirche.com</description>
     </item>
     <item>
       <title>Support</title>
