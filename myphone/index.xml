@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MyPhone on DAMIRCHE CA LLC</title>
+    <title>MyPhone: your phone in VR on DAMIRCHE CA LLC</title>
     <link>https://damirche.com/myphone/</link>
-    <description>Recent content in MyPhone on DAMIRCHE CA LLC</description>
+    <description>Recent content in MyPhone: your phone in VR on DAMIRCHE CA LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://damirche.com/myphone/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <link>https://damirche.com/myphone/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://damirche.com/myphone/support/</guid>
-      <description>If you have any questions, feel free to reach out using the information below.&#xA;Email: rdamir@damirche.com</description>
+      <description>Join the Discord for any questions, suggestions, or bug reports.&#xA;Or email us: rdamir@damirche.com</description>
     </item>
   </channel>
 </rss>

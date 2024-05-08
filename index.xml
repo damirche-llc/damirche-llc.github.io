@@ -6,7 +6,7 @@
     <description>Recent content on DAMIRCHE CA LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 11:08:57 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 17:16:47 -0700</lastBuildDate>
     <atom:link href="https://damirche.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://damirche.com/products/</guid>
       <description>MyPhone — Use this app to stream your phone&amp;rsquo;s screen to AR/VR headsets headset.&#xA;DarkSpace — Custom Home with nothing inside, only emptiness of Dark Space.</description>
+    </item>
+    <item>
+      <title>MyPhone is available!</title>
+      <link>https://damirche.com/posts/2024-05-07-myphone/</link>
+      <pubDate>Tue, 07 May 2024 17:16:47 -0700</pubDate>
+      <guid>https://damirche.com/posts/2024-05-07-myphone/</guid>
+      <description>MyPhone is an app that allows you to stream your phone’s screen to your AR/VR headset. Check the link for details.</description>
     </item>
     <item>
       <title>DarkSpace VR Home is available!</title>
@@ -55,7 +62,7 @@
       <link>https://damirche.com/myphone/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://damirche.com/myphone/support/</guid>
-      <description>If you have any questions, feel free to reach out using the information below.&#xA;Email: rdamir@damirche.com</description>
+      <description>Join the Discord for any questions, suggestions, or bug reports.&#xA;Or email us: rdamir@damirche.com</description>
     </item>
   </channel>
 </rss>
