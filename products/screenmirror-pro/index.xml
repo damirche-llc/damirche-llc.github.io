@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>damirche.com – ScreenMirror.TV: Mirroring App</title>
-    <link>https://damirche.com/products/screenmirror-tv/</link>
-    <description>Recent content in ScreenMirror.TV: Mirroring App on damirche.com</description>
+    <title>damirche.com – ScreenMirror.PRO: Mirroring App</title>
+    <link>https://damirche.com/products/screenmirror-pro/</link>
+    <description>Recent content in ScreenMirror.PRO: Mirroring App on damirche.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://damirche.com/products/screenmirror-tv/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://damirche.com/products/screenmirror-pro/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Support</title>
-      <link>https://damirche.com/products/screenmirror-tv/support/</link>
+      <link>https://damirche.com/products/screenmirror-pro/support/</link>
       <pubDate>Wed, 04 Jun 2025 11:08:57 -0700</pubDate>
       
-      <guid>https://damirche.com/products/screenmirror-tv/support/</guid>
+      <guid>https://damirche.com/products/screenmirror-pro/support/</guid>
       <description>
         
         
@@ -31,14 +31,14 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://damirche.com/products/screenmirror-tv/privacy-policy/</link>
-      <pubDate>Mon, 07 Apr 2025 11:08:57 -0700</pubDate>
+      <link>https://damirche.com/products/screenmirror-pro/privacy-policy/</link>
+      <pubDate>Sun, 04 May 2025 11:08:57 -0700</pubDate>
       
-      <guid>https://damirche.com/products/screenmirror-tv/privacy-policy/</guid>
+      <guid>https://damirche.com/products/screenmirror-pro/privacy-policy/</guid>
       <description>
         
         
-        &lt;p&gt;This privacy policy applies to the &lt;a href=&#34;https://damirche.com/products/screenmirror-tv&#34; &gt;ScreenMirror.TV&lt;/a&gt; (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created
+        &lt;p&gt;This privacy policy applies to the &lt;a href=&#34;https://damirche.com/products/screenmirror-pro&#34; &gt;ScreenMirror.PRO&lt;/a&gt; (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created
 by DAMIRCHE CA LLC (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Commercial service. This service is intended for use &amp;ldquo;AS
 IS&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Information Collection and Use&lt;/strong&gt;&lt;/p&gt;
@@ -53,8 +53,8 @@ IS&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;The Service Provider may use the information you provided to contact you from time to time to provide you with important
 information, required notices and marketing promotions.&lt;/p&gt;
 &lt;p&gt;For a better experience, while using the Application, the Service Provider may require you to provide us with certain
-personally identifiable information, including but not limited to Device ID. The information that the Service Provider
-request will be retained by them and used as described in this privacy policy.&lt;/p&gt;
+personally identifiable information. The information that the Service Provider request will be retained by them and used
+as described in this privacy policy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Third Party Access&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in
 improving the Application and their service. The Service Provider may share your information with third parties in the
@@ -62,11 +62,8 @@ ways that are described in this privacy statement.&lt;/p&gt;
 &lt;p&gt;Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data.
 Below are the links to the Privacy Policy of the third-party service providers used by the Application:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://support.google.com/admob/answer/6128543?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AdMob&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.appsflyer.com/legal/privacy-policy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AppsFlyer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://firebase.google.com/support/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics for Firebase&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://firebase.google.com/support/privacy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firebase Crashlytics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/about/privacy/update/printable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The Service Provider may disclose User Provided and Automatically Collected Information:&lt;/p&gt;
 &lt;ul&gt;
@@ -99,7 +96,7 @@ maintains.&lt;/p&gt;
 &lt;p&gt;This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes
 to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy
 regularly for any changes, as continued use is deemed approval of all changes.&lt;/p&gt;
-&lt;p&gt;This privacy policy is effective as of 2025-06-08&lt;/p&gt;
+&lt;p&gt;This privacy policy is effective as of 2025-06-04&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Your Consent&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy
 now and as amended by us.&lt;/p&gt;
