@@ -1,0 +1,57 @@
+# Selective consolidation: damirche.com VlogMonitor / ScreenMirror cluster → screenmirror.tv
+# Specific static paths first; product-subtree fallbacks last. No domain-wide or /blog/* catch-all.
+
+# VlogMonitor product + aliases
+/products/vlogmonitor  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/products/vlogmonitor/  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/vlogmonitor  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/vlogmonitor/  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/products/vlogmonitor/screen-mirroring  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/products/vlogmonitor/screen-mirroring/  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/blog/2024-06-25-vlogmonitor  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/blog/2024-06-25-vlogmonitor/  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/products/vlogmonitor/guides  https://www.screenmirror.tv/guides/  301
+/products/vlogmonitor/guides/  https://www.screenmirror.tv/guides/  301
+/products/vlogmonitor/faq  https://www.screenmirror.tv/apps/vlog-monitor/faq/  301
+/products/vlogmonitor/faq/  https://www.screenmirror.tv/apps/vlog-monitor/faq/  301
+/products/vlogmonitor/support  https://www.screenmirror.tv/apps/vlog-monitor/support/  301
+/products/vlogmonitor/support/  https://www.screenmirror.tv/apps/vlog-monitor/support/  301
+/vlogmonitor/support  https://www.screenmirror.tv/apps/vlog-monitor/support/  301
+/vlogmonitor/support/  https://www.screenmirror.tv/apps/vlog-monitor/support/  301
+/products/vlogmonitor/privacy-policy  https://www.screenmirror.tv/apps/vlog-monitor/privacy-policy/  301
+/products/vlogmonitor/privacy-policy/  https://www.screenmirror.tv/apps/vlog-monitor/privacy-policy/  301
+/vlogmonitor/privacy-policy  https://www.screenmirror.tv/apps/vlog-monitor/privacy-policy/  301
+/vlogmonitor/privacy-policy/  https://www.screenmirror.tv/apps/vlog-monitor/privacy-policy/  301
+
+# Guides (exact intent)
+/blog/how-to-mirror-iphone-to-iphone  https://www.screenmirror.tv/screen-mirror-iphone-to-iphone/  301
+/blog/how-to-mirror-iphone-to-iphone/  https://www.screenmirror.tv/screen-mirror-iphone-to-iphone/  301
+/blog/how-to-mirror-iphone-to-ipad  https://www.screenmirror.tv/mirror-iphone-on-ipad/  301
+/blog/how-to-mirror-iphone-to-ipad/  https://www.screenmirror.tv/mirror-iphone-on-ipad/  301
+/blog/2025-01-12-how-to-mirror-iphone-to-ipad  https://www.screenmirror.tv/mirror-iphone-on-ipad/  301
+/blog/2025-01-12-how-to-mirror-iphone-to-ipad/  https://www.screenmirror.tv/mirror-iphone-on-ipad/  301
+/posts/2025-01-12-how-to-mirror-iphone-to-ipad  https://www.screenmirror.tv/mirror-iphone-on-ipad/  301
+/posts/2025-01-12-how-to-mirror-iphone-to-ipad/  https://www.screenmirror.tv/mirror-iphone-on-ipad/  301
+/blog/use-your-ipad-as-selfie-mirror  https://www.screenmirror.tv/ipad-mirror-selfie/  301
+/blog/use-your-ipad-as-selfie-mirror/  https://www.screenmirror.tv/ipad-mirror-selfie/  301
+
+# ScreenMirror.TV product
+/products/screenmirror-tv  https://www.screenmirror.tv/apps/screen-mirror-tv/  301
+/products/screenmirror-tv/  https://www.screenmirror.tv/apps/screen-mirror-tv/  301
+/products/screenmirror-tv/support  https://www.screenmirror.tv/apps/screen-mirror-tv/support/  301
+/products/screenmirror-tv/support/  https://www.screenmirror.tv/apps/screen-mirror-tv/support/  301
+/products/screenmirror-tv/privacy-policy  https://www.screenmirror.tv/apps/screen-mirror-tv/privacy-policy/  301
+/products/screenmirror-tv/privacy-policy/  https://www.screenmirror.tv/apps/screen-mirror-tv/privacy-policy/  301
+
+# ScreenMirror.PRO product
+/products/screenmirror-pro  https://www.screenmirror.tv/apps/screen-mirror-pro/  301
+/products/screenmirror-pro/  https://www.screenmirror.tv/apps/screen-mirror-pro/  301
+/products/screenmirror-pro/support  https://www.screenmirror.tv/apps/screen-mirror-pro/support/  301
+/products/screenmirror-pro/support/  https://www.screenmirror.tv/apps/screen-mirror-pro/support/  301
+/products/screenmirror-pro/privacy-policy  https://www.screenmirror.tv/apps/screen-mirror-pro/privacy-policy/  301
+/products/screenmirror-pro/privacy-policy/  https://www.screenmirror.tv/apps/screen-mirror-pro/privacy-policy/  301
+
+# Product-subtree fallbacks for unknown legacy children (after specific rules above)
+/products/vlogmonitor/*  https://www.screenmirror.tv/apps/vlog-monitor/  301
+/products/screenmirror-tv/*  https://www.screenmirror.tv/apps/screen-mirror-tv/  301
+/products/screenmirror-pro/*  https://www.screenmirror.tv/apps/screen-mirror-pro/  301
